@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Sarcasam detection using Transformers project.
 - 🌱 I’m currently learning , how to implement and deploy a project of Machine Learning from End-to-End.
-- 👯 I’m looking to collaborate on Machine Learning and NlP projects.
+- 👯 I’m looking to collaborate on Machine Learning and NLP projects.
 - 📫 How to reach me: Kesava.mattupalli@gmail.com
 - 😄 Pronouns: he/him
 
